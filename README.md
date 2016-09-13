@@ -32,6 +32,15 @@ if var==1
 end
 ```
 
-
 ## Methods
+* Used to define a distinctive funtion in the code:
+```
+def method_example(parameter1,parameter2)
+  if parameter1 >= parameter2
+    return parameter1
+  end 
+  peramerter2
+end
+```
 
+### If you want a real begginers guide to ruby click [here](learnrubythehardway.org/book)
